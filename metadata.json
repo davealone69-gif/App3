@@ -1,0 +1,6 @@
+{
+  "name": "Android Web App Builder",
+  "description": "An unrestricted AI chat assistant interface alongside the Android Capacitor wrapper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
